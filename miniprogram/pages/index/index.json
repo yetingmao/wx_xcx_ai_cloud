@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "van-icon": "/components/icon",
+    "van-nav-bar": "/components/nav-bar",
+    "van-tab": "/components/tab",
+    "van-tabs": "/components/tabs",
+    "van-grid": "/components/grid",
+    "van-grid-item": "/components/grid-item"
+  
+  }
+}

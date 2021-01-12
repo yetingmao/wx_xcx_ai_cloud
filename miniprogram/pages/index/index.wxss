@@ -1,0 +1,25 @@
+/**index.wxss**/
+.container_top{
+  width: 100%;
+}
+.container_content{
+  width: 100%; 
+}
+.content_submit{
+  margin-top: 50rpx;
+  display: flex;
+  justify-content: center;
+}
+.tab_body{
+  font-size: 30rpx;
+  overflow: auto;
+}
+.body_item{
+  margin-top: 50rpx;
+}
+.item_name{
+  margin-left: 20rpx;
+}
+.item_data{
+  margin-top: 10rpx;
+}

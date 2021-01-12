@@ -1,0 +1,29 @@
+/**index.wxss**/
+.container{
+  position: relative;
+  height: 100%;
+}
+camera{
+  height: 80%;
+}
+.container_take{
+  height: 20%;
+  width: 100%;
+  background:rgb(0,0,0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container_img{
+  width: 100%;
+  height: 80%;
+}
+.container_action{
+  width: 100%;
+  height: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background:rgb(0,0,0);
+  
+}
